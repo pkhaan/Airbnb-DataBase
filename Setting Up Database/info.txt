@@ -1,0 +1,6 @@
+Πέτρος Χάνας - 3170173
+Ιάσων Χριστοφιλάκης - 3170182
+Endpoint: airbnb.cmzcy1hk3arn.us-east-1.rds.amazonaws.com
+Username: examiner
+Password: aueb_examiner_dbms
+Database: Airbnb
